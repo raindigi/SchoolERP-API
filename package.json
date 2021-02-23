@@ -27,7 +27,7 @@
     "moment": "^2.21.0",
     "mongoose": "^5.0.6",
     "morgan": "^1.9.0",
-    "node-base64-image": "^1.0.5",
+    "node-base64-image": "^2.0.0",
     "nodemailer": "^4.4.2",
     "path": "^0.12.7",
     "readline-sync": "^1.4.9",
