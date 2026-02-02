@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/wbproducts/schoolerp_api#readme",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "email-templates": "^3.3.4",
@@ -32,7 +32,7 @@
     "path": "^0.12.7",
     "readline-sync": "^1.4.9",
     "request-ip": "^2.0.2",
-    "ts-node": "^5.0.1",
+    "ts-node": "^8.1.1",
     "typescript": "^2.7.2"
   }
 }
